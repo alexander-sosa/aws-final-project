@@ -48,3 +48,6 @@ curl -L -o downloaded_name.png https://API_URL/files/OBJECT_KEY
 ```
 
 The response will be a 307 redirect with a `Location` header pointing to the presigned S3 URL. With -L curl will follow the redirection and get to the file 
+
+Link to the Google Docs file
+https://docs.google.com/document/d/16ziKY-FBjq3budPgdzEmDtdg-F-LaHVfBPScC3Etsk4/edit?usp=sharing
